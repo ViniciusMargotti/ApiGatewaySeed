@@ -1,5 +1,5 @@
 # ApiGatewaySeed
-  Zuul Server is an API Gateway application. It handles all the requests and performs the dynamic routing of microservice applications. It works as a front door for all the requests. It is also known as Edge Server.
+  Zuul Server is an API Gateway application. It handles all the requests and performs the dynamic routing of microservice applications. It works as a front door for all the requests. It is also known as Edge Server, belongs to the project https://github.com/users/ViniciusMargotti/projects/6
 
 # Dependencies
 JDK 8+
